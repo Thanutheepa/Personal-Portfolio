@@ -1,2 +1,2 @@
 # Personal-Portfolio
-This is my individual project.
+This is my first individual project.
